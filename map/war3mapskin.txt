@@ -1,0 +1,42 @@
+[CustomSkin]
+CommandNewSkill=ReplaceableTextures\CommandButtons\BTNSkillz.blp
+Cursor=UI\Cursor\HumanCursor.mdl
+GoldIcon=UI\Feedback\Resources\ResourceGold.blp
+IdlePeon=ReplaceableTextures\CommandButtons\BTNEngineeringUpgrade.blp
+InfoPanelIconArmorHero=UI\Icons\Armour.blp
+InfoPanelIconArmorHeroNeutral=UI\Icons\Armour.blp
+InfoPanelIconDamageHero=UI\Icons\Attack.blp
+InfoPanelIconDamageHeroNeutral=UI\Icons\Attack.blp
+SupplyIcon=ReplaceableTextures\CommandButtons\PASBTNtime.blp
+[Errors]
+Absorbmana=Недостаточно чакры
+Nolumber=Недостаточно дерева.
+Nomana=Недостаточно чакры.
+Notsapper=Неподходящая цель...
+[FrameDef]
+ARMORTIP_HERO=Герои получают меньше урона от заклинаний на 25%.
+BONUS_ATTACK_SPEED= - 1 ед. повышает скорость боя на 2%.
+BONUS_HPREGEN= - 1 ед. повышает скорость восстановления здоровья на 0.05/сек
+BONUS_MANAREGEN= - 1 ед. повышает скорость восстановления маны на 0.05/сек
+COLON_DAMAGE_REDUCTION=Защита физ.урона:
+COLON_FOOD=Время
+COLON_FOOD_PROVIDED=Время:
+COLON_FOOD_USED=Время:
+COLON_LUMBER=Дерево:
+COLON_PROVIDED=Время: 
+INTELLECT_HILIGHT=|Cffffff00Разум|R
+ITEM_PAWN_TOOLTIP=|cff808080Предмет можно продать.|R
+ITEM_USE_TOOLTIP=|CFFFED312Предмет активируем.|R|n
+KEY_QUESTS=Информация
+MINIMAPALLYCOLORTOOLTIP_UBER=Переключение режимов цветового обозначения войск.|N|N|Cfffed312Режим 1:|R цвета игроков.|N|Cfffed312Режим 2:|R |CFF00FFFFсоюзники|R и |CFFFF0000противники|R.|N|Cfffed312Ре_
+PAUSE_GAME_NOTIFY=Игрок %s нажал на паузу <осталось тайм-аутов: %u>.
+QUESTS=Информация
+RESOURCE_UBERTIP_GOLD=Золото можно получить за крипов либо героев.
+RESOURCE_UBERTIP_LUMBER=За победу на дуэли: 1 дерево.          За убийство: 1 дерево.
+RESOURCE_UBERTIP_SUPPLY=Игровое время.
+RESOURCE_UBERTIP_UPKEEP=|cFF8C8C8CНаш дискорд|r:|cFF5D5090discord.gg/wwt7pQM|r
+RESOURCE_UBERTIP_UPKEEP_INFO_WOOD=(остается %d%% золота и %d%% древесины)
+SCREENCAP_MESSAGE=Снимок сделан :)
+UPKEEP_HIGH=Rebirth v1.1.93
+UPKEEP_NONE=Rebirth v1.1.93
+UPPER_BUTTON_QUEST_TIP=Информация (|Cfffed312F9|R)
